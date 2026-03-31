@@ -39,7 +39,7 @@ The R script files in the `R Code` folder should be used in the following order:
 * **TWA_OWA_FFM_sequential.R** & **TWA_OWA_FFM_split.R**: Sequential and split estimation for the combined TWA-OWA-FFM.
 
 ## Contact
-**arXiv link:** [Add link here]
+**arXiv link:** https://arxiv.org/abs/2603.28344
 
 **Han Lin Shang** - hanlin.shang@mq.edu.au
 
