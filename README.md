@@ -38,13 +38,8 @@ The R script files in the `R Code` folder should be used in the following order:
 * **TWA_FFM_sequential.R** & **TWA_FFM_split.R**: Sequential and split estimation based on TWA-FFM.
 * **TWA_OWA_FFM_sequential.R** & **TWA_OWA_FFM_split.R**: Sequential and split estimation for the combined TWA-OWA-FFM.
 
-<<<<<<< HEAD
 ## How to Cite
 If you use this code or methodology in your research, please cite our paper:
-=======
-## Contact
-**arXiv link:** https://arxiv.org/abs/2603.28344
->>>>>>> e4c4212818e8bb721a5c81ab90227942346ad1c5
 
 > Shang, H. L., & Jiménez-Varón, C. F. (2026). Interpretable models for forecasting high-dimensional functional time series. *Statistics and Computing*, 36(6), Article 236. https://doi.org/10.1007/s11222-026-10993-8
 
@@ -61,5 +56,3 @@ If you use this code or methodology in your research, please cite our paper:
   doi      = {10.1007/s11222-026-10993-8},
   url      = {[https://doi.org/10.1007/s11222-026-10993-8](https://doi.org/10.1007/s11222-026-10993-8)}
 }
-
-
